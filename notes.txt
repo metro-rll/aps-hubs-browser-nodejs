@@ -1,0 +1,9 @@
+We have a clone of the code sample from 
+https://github.com/autodesk-platform-services/aps-hubs-browser-nodejs
+
+We have an Azure web app here 
+https://test-aps-hubs-browser-nodejs.azurewebsites.net/
+
+The code is deployed, as can be seen with FTP
+
+
