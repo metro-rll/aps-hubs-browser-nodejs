@@ -6,4 +6,10 @@ https://test-aps-hubs-browser-nodejs.azurewebsites.net/
 
 The code is deployed, as can be seen with FTP
 
+Deployment from VS Code is pushed to github, but not deployed to Azure 
 
+ Add or update the Azure App Service build and deployment workflow config 
+ Build and deploy Node.js app to Azure Web App 
+ - test-aps-hubs-browser-nodejs #1: Commit e0c1b3a pushed by metro-rll 
+
+ The code is built and deployed by the push
